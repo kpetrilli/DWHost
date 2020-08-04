@@ -35,4 +35,4 @@ can consult in its integral version by reading the LICENSE.txt file.
 
 ## Disclaimer
 Also, remember that I am not responsible in any way and therefore I decline every
-resopnsability for whatever you do.
+responsibility for whatever you do.
